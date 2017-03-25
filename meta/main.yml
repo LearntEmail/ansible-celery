@@ -1,8 +1,8 @@
 ---
 galaxy_info:
-  author: Hector Castro
+  author: Hector Castro, Mason X
   description: An Ansible role for installing Celery.
-  company: Azavea Inc.
+  company: Azavea Inc., LearntEmail
   license: Apache
   min_ansible_version: 1.8
   platforms:
@@ -11,5 +11,3 @@ galaxy_info:
     - trusty
   categories:
   - system
-dependencies:
-  - { role: "azavea.pip" }
